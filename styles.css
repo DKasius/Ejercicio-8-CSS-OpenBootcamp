@@ -1,0 +1,33 @@
+body{
+    padding: 5px;
+    margin: 5px;
+}
+
+.col{
+   margin: 0.25rem; 
+   text-align: center;
+}
+.bmw{
+    background-color: crimson;
+}
+
+.jaguar{
+    background-color: chartreuse;
+}
+
+.ferrari{
+    background-color: yellow;
+}
+
+.lamborgini{
+    background-color: gold;
+}
+
+.maserati{
+    background-color: green;
+}
+
+.astonmartin{
+    background-color: darkorange;
+}
+
